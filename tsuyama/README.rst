@@ -101,7 +101,7 @@ make.
 * The JavaScript initializations for each of the widgets need to be customized; in 
   particular the dataset name needs to be set and an appropriate set of break down
   dimensions needs to be set for the BubbleTree and DailyBread.
-* Adapt the style sheet in ``css/style.css`` to use your own theming; in particular 
+* Adapt the style sheet in ``/css/style.css`` to use your own theming; in particular 
   fonts and colorization.
 * Replace ``img/logo.png`` to set a custom logo.
 * Edit the basic HTML structure of the project in ``_layouts/default.html`` to extend
